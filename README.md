@@ -1,6 +1,6 @@
 A simple 🚚 delivery management system built with FastAPI for the backend and React for the frontend.
 
-## ✅ Requirements
+##  Requirements
 - PostgreSQL
 - Redis
 - Celery
